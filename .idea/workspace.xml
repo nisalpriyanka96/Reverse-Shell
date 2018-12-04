@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5cfa45a0-e495-474e-874b-f114060eaf84" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +17,12 @@
       <file leaf-file-name="server.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+            <state relative-caret-position="978">
+              <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <element signature="e#719#874#0" />
-                <element signature="e#905#1353#0" />
+                <element signature="e#878#1033#0" />
+                <element signature="e#1064#1512#0" />
               </folding>
             </state>
           </provider>
@@ -32,7 +31,7 @@
       <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
+            <state relative-caret-position="357">
               <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -61,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -172,7 +171,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17326732" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06270627" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.7887789" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -192,12 +191,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/server.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="110" column="42" selection-start-line="110" selection-start-column="42" selection-end-line="110" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#878#1033#0" />
+            <element signature="e#1064#1512#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#719#874#0" />
-            <element signature="e#905#1353#0" />
+            <element signature="e#878#1033#0" />
+            <element signature="e#1064#1512#0" />
           </folding>
         </state>
       </provider>
@@ -218,8 +239,8 @@
           <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#719#874#0" />
-            <element signature="e#905#1353#0" />
+            <element signature="e#878#1033#0" />
+            <element signature="e#1064#1512#0" />
           </folding>
         </state>
       </provider>
@@ -240,8 +261,8 @@
           <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#719#874#0" />
-            <element signature="e#905#1353#0" />
+            <element signature="e#878#1033#0" />
+            <element signature="e#1064#1512#0" />
           </folding>
         </state>
       </provider>
@@ -259,7 +280,7 @@
     <entry file="file://$PROJECT_DIR$/bacon.txt" />
     <entry file="file://$PROJECT_DIR$/client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
+        <state relative-caret-position="357">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -269,12 +290,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+        <state relative-caret-position="978">
+          <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#719#874#0" />
-            <element signature="e#905#1353#0" />
+            <element signature="e#878#1033#0" />
+            <element signature="e#1064#1512#0" />
           </folding>
         </state>
       </provider>

@@ -100,7 +100,7 @@ def list_connections():
     results = ''
     for i, conn in enumerate(all_connection):
         try:
-            conn.send(str.encode(i))
+            conn.send(str.encode(' '))
             conn.recv(20480)
         except:
             del all_connection[i]
@@ -119,7 +119,7 @@ def get_target():
 def main():
     socket_create()
     socket_binding()
-
+    accept_connection()
 
 
 main()
