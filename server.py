@@ -1,3 +1,11 @@
+#############################################
+# CODED BY : NISAL PRIYANKA aka COD-HORA    #
+#############################################
+#############################################
+#    ONLY FOR THE EDUCATION PURPOSES!!      #
+#############################################
+
+
 import socket
 import sys
 import threading
