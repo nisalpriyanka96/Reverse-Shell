@@ -24,3 +24,6 @@
   <li> Issue "select [Client_Number]" command (server.py) to connect to particular client </li>
   <li> Issue "quit" command to exit from connected client </li>
 </ul>
+
+<h3> Developed By : Nisal Priyanka </h3>
+<code> ** ONLY FOR THE EDUCATIONAL PURPOSE ** </code>
